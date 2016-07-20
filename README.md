@@ -1,4 +1,4 @@
-This was one my first ever projects.
+This was one my first ever projects, thus the code for it questionable but I keep it here for memories.
 
 It is an simple RPG where you walk around a field, encounter monsters and have a chance of leveling up.
 
