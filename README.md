@@ -1,8 +1,23 @@
-This was one my first ever projects, thus the code for it questionable but I keep it here for memories.
+# Hopson Land
 
-It requies SFML (audio) as a third-party library.
+This was one my first ever projects, thus the code for it questionable but I keep it here for memories.dc
 
 It is an simple RPG where you walk around a field, encounter monsters and have a chance of leveling up.
+
+## Building
+
+SFML is required. This can downloaded from https://www.sfml-dev.org/download.php
+
+Or, on Ubuntu
+
+`sudo apt install libsfml-dev`
+
+```shell
+cmake .
+make
+```
+
+
 
 Roaming:
 
