@@ -308,7 +308,7 @@ int player::battleAttack()
     cout << "You attempt to hit the enemy! ";
 
     int damage = 0;
-    random rand;
+    Random rand;
 
     damage = rand.num(0,getMaxDamage());
 

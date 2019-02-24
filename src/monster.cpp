@@ -49,7 +49,7 @@ int monster::attack(int userLevel, int userHealth)
     }
     */
     int hit;
-    random rand;
+    Random rand;
     hit = rand.num(0, getDamage());
     std::cout << "The enemy tries to attack you, ";
     if(damage >= 1)
